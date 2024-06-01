@@ -1,16 +1,18 @@
-# fooddeliveryapp
+# Food Delivery App
 
-A new Flutter project.
+Welcome to the Food Delivery App! This application allows users to browse various restaurants, place orders, and track the delivery status, all from the convenience of their mobile devices. Built with Dart and Firebase, it ensures a seamless and secure user experience.This is a simple food delivery app that is built for final project of the Power Learn Project bootcamp. 
 
-## Getting Started
+ ## Features
+User Authentication: Secure sign-in and sign-up using Firebase Authentication.
+Order Placement: Easily add items to the cart and place orders.
+Payment Integration: Supports credit card payment method.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+Dart: The programming language used for developing the app.
+Flutter: Framework for building the UI and app functionality.
+Firebase Authentication: Handles user authentication and management.
+Firebase Firestore: Stores and retrieves order data in real-time.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
